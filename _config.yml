@@ -14,8 +14,8 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+title: Epicatomic
+subtitle: "All big ideas start small"
 url: "https://thomascmost.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/epicatomic"
@@ -30,8 +30,11 @@ markdown: kramdown
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: engineering
+    desc: "Posts describing engineering & software projects"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: theater
+    desc: "Posts about theater & performance projects"
+
+  - cat: writing
+    desc: "Posts about writing, both fiction and non-fiction"
